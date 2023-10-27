@@ -1,11 +1,11 @@
-creation_timestamp: 1678343567075
-current_stage: Archived
-description: null
-last_updated_timestamp: 1678345487667
+creation_timestamp: 1698443183870
+current_stage: None
+description: 'Melhor modelo do train test '
+last_updated_timestamp: 1698447374395
 name: GradientBoostingRegressor
-run_id: 0b14675dbdef475e8cb203eccf3e84a5
+run_id: b914298931b64cc88144cbc5b4f4c170
 run_link: null
-source: file:///home/cmcouto-silva/Insync/cmcouto.silva%40gmail.com/Google%20Drive/Freela/DNC/Aulas/Modelos/MLFlow/notebooks/mlruns/874019575468914865/0b14675dbdef475e8cb203eccf3e84a5/artifacts/model_pipeline
+source: file:///workspaces/google_app_ml_deploy/7-MLFlow/notebooks/mlruns/366868970861931894/b914298931b64cc88144cbc5b4f4c170/artifacts/model_pipeline
 status: READY
 status_message: null
 user_id: null

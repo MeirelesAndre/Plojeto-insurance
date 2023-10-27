@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/google_app_ml_deploy/7-MLFlow/notebooks/mlruns/366868970861931894/f701c91f9657435fa8cf579c8d34e03b/artifacts
+end_time: 1698443173296
+entry_point_name: ''
+experiment_id: '366868970861931894'
+lifecycle_stage: active
+run_id: f701c91f9657435fa8cf579c8d34e03b
+run_name: unruly-koi-22
+run_uuid: f701c91f9657435fa8cf579c8d34e03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698443170915
+status: 3
+tags: []
+user_id: codespace

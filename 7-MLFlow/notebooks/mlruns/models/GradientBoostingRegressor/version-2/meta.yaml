@@ -1,11 +1,11 @@
-creation_timestamp: 1678345353227
-current_stage: Production
-description: null
-last_updated_timestamp: 1678345487667
+creation_timestamp: 1698447106237
+current_stage: None
+description: Tuned model
+last_updated_timestamp: 1698447382355
 name: GradientBoostingRegressor
-run_id: 11137857efcf4e95ae41b1c8d0a68f2a
+run_id: c123a6dc173545e39e922f41e86f715e
 run_link: null
-source: file:///home/cmcouto-silva/Insync/cmcouto.silva%40gmail.com/Google%20Drive/Freela/DNC/Aulas/Modelos/MLFlow/notebooks/mlruns/874019575468914865/11137857efcf4e95ae41b1c8d0a68f2a/artifacts/tuned_model_pipeline
+source: file:///workspaces/google_app_ml_deploy/7-MLFlow/notebooks/mlruns/366868970861931894/c123a6dc173545e39e922f41e86f715e/artifacts/tuned_model_pipeline
 status: READY
 status_message: null
 user_id: null

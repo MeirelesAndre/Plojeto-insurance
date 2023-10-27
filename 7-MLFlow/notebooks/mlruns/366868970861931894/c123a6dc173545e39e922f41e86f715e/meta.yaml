@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/google_app_ml_deploy/7-MLFlow/notebooks/mlruns/366868970861931894/c123a6dc173545e39e922f41e86f715e/artifacts
+end_time: 1698447106240
+entry_point_name: ''
+experiment_id: '366868970861931894'
+lifecycle_stage: active
+run_id: c123a6dc173545e39e922f41e86f715e
+run_name: bedecked-elk-769
+run_uuid: c123a6dc173545e39e922f41e86f715e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698447104243
+status: 3
+tags: []
+user_id: codespace

@@ -62,3 +62,10 @@ Se usando Windows, utilizar o WSL2 (Windows Subsystem for Linux). Veja as instru
 docker build -t fastapi-app .
 docker run --name insurance_project -d -p 8000:8000 fastapi-app
 ```
+
+## 7- MLFlow
+
+```bash
+conda create -n mlflow python=3.8
+conda activate mlflow
+pip install -r requirements.txt

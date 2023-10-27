@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/google_app_ml_deploy/7-MLFlow/notebooks/mlruns/366868970861931894/c4a93e73e0b64e7db1204ef0d698c56c/artifacts
+end_time: 1698443175318
+entry_point_name: ''
+experiment_id: '366868970861931894'
+lifecycle_stage: active
+run_id: c4a93e73e0b64e7db1204ef0d698c56c
+run_name: abundant-snake-146
+run_uuid: c4a93e73e0b64e7db1204ef0d698c56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698443173319
+status: 3
+tags: []
+user_id: codespace

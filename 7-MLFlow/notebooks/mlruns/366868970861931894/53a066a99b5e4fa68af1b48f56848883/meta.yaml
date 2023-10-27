@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/google_app_ml_deploy/7-MLFlow/notebooks/mlruns/366868970861931894/53a066a99b5e4fa68af1b48f56848883/artifacts
+end_time: 1698443179465
+entry_point_name: ''
+experiment_id: '366868970861931894'
+lifecycle_stage: active
+run_id: 53a066a99b5e4fa68af1b48f56848883
+run_name: orderly-loon-691
+run_uuid: 53a066a99b5e4fa68af1b48f56848883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698443177376
+status: 3
+tags: []
+user_id: codespace
